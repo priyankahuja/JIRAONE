@@ -1,0 +1,4 @@
+TC1 The user should be able to login into TMS
+TC2 The user should be able to select time of travel source and destination
+TC3 The user should be able to select file
+TC4 The user should be able to do test
